@@ -16,4 +16,9 @@ whitenoise==5.0.1
 
 ``` 
 ## Servidor corriendo
+
+
 el servidor esta corriendo en el puerto: 8000
+
+
+![Servidor corriendo](https://github.com/Sgonzalezf97/Plotly-Dash-in-Django/blob/main/IMG/succefull.PNG)
